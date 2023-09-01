@@ -1,4 +1,7 @@
-﻿using System.ComponentModel.Design;
+﻿/*
+ * Alex Tindall
+ * 8/31/2023
+ */
 
 namespace Class02File
 {
